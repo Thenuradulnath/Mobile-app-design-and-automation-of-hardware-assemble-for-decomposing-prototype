@@ -1,2 +1,3 @@
 Our client, Alex Jaimes Castillo, is a Swinburne University of Technology postgraduate researcher and social enterprise Manatzura. He is working on a project for sustainable waste management technologies and specifically the LIDA (Live Interactions and Dynamic Activities) system, a smart, in-vessel composting prototype designed to simplify composting through automation and sensor technology. The current status of the project updated in the source files that were given by the Alex. 
+
 Our team is allocated with updating and enhancing the current version of the mobile app part of the project. There will be 2 other teams that collaborating with us to develop this project who are allocated to enchance the mechanical and mechatronics parts. 
