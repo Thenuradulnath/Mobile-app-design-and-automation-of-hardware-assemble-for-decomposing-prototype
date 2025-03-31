@@ -2,8 +2,7 @@ Our client, Alex Jaimes Castillo, is a Swinburne University of Technology postgr
 
 Our team is allocated with updating and enhancing the current version of the mobile app part of the project. There will be 2 other teams that collaborating with us to develop this project who are allocated to enchance the mechanical and mechatronics parts. 
 
-**Team allocation**
-_______________________________________
+# Team allocation
 
 Currently we got 4 members in our group.
 
